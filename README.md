@@ -15,7 +15,9 @@
  3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
  
  ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
- 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+
+
+4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
  
  ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
  
@@ -36,7 +38,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![faizal 1 2](https://user-images.githubusercontent.com/120553195/212879091-0454b54b-4b81-4726-9413-05af96cea738.png)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
